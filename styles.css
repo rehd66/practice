@@ -1,0 +1,37 @@
+.main {
+  height: 100vh;
+  background-color: khaki;
+  background-image: url("me.jpg");
+  background-size: cover;
+  background-position: center;
+  opacity: 0.8;
+}
+.first {
+  /*background-color: green;*/
+  height: 25vh;
+}
+.second {
+  /*background-color: red;*/
+  height: 25vh;
+  clear: right;
+}
+.third {
+  /*background-color: blue;*/
+  height: 25vh;
+  clear: right;
+}
+.fourth {
+  /*background-color: yellow;*/
+  height: 25vh;
+  clear: right;
+}
+.navs img {
+  width: 40%;
+  height: 70%;
+  float: right;
+  margin-right: 35%;
+  margin-top: 10%;
+}
+.navs img:hover {
+  opacity: 0.7;
+}
